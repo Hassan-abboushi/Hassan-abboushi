@@ -12,8 +12,6 @@
 
 A software developer with hands-on experience building practical, real-world applications — from offline-first desktop systems to AI-powered tools like RAG-based chatbots. Comfortable across the full stack, from backend logic and data handling to packaging and deployment, with a background in IT systems and network administration that grounds the work in solid technical fundamentals.
 
-🔭 &nbsp;I'm currently working on **e-commerce website**
-
 ### 🛠️ Tech Stack
 
 <p align="left">
