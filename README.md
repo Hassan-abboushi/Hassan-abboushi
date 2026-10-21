@@ -1,0 +1,13 @@
+# Hassan abboushi
+
+> Junior software developer — I’m a Computer Science student at Jordan University of Science and Technology (JUST) with 2 years of hands-on experience in technical support, where I handled PC and network troubleshooting, customer support, and system administration. I enjoy turning that practical IT background into real software. So far I’ve built three projects: FCR, a financial report checker app; a Gym Management System that covers day-to-day gym operations; and a brand landing page designed to give a brand a polished online presence.
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-333?style=for-the-badge&logo=cloudflare&logoColor=white) ![Google cloud](https://img.shields.io/badge/Google%20cloud-333?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+## 🌐 Socials
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanabboushidev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hassan-abboushi-446908418/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hassan-abboushi)
+
+## 📊 GitHub Stats
